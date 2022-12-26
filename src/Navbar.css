@@ -1,0 +1,139 @@
+.mid {
+	background-color: rgb(205, 212, 212);
+
+	width: 100%;
+
+    display: inline-block;
+    list-style: none;
+  
+}
+
+
+/* need to cite */
+Button {
+
+    float:left;
+    padding-left: 100px;
+    padding-top: 10px;
+    background-color: #2980b9;
+    transition: background-color 0.25s ease-in-out;
+    text-decoration: none;
+    color: white;
+    display: grid;
+    align-items: center;
+    border-radius: 100px;
+    justify-content: space-around;
+    padding: 0px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
+    border: none;
+    width: 100px;
+    margin-right: 20%;
+
+
+
+}
+
+.Contact {
+    align-items: center;
+    text-align: center;;
+
+
+}
+
+
+
+img {
+    max-width: 50%;
+    max-height: 50%;
+   }
+
+
+.Picture {
+   float:center;
+    
+   
+    text-align: center;
+  
+     
+      
+}
+
+.About {
+    float:left;
+    padding-left: 1px;
+    padding-top: 10px;
+    background-color: #2980b9;
+    transition: background-color 0.25s ease-in-out;
+    text-decoration: none;
+    color: white;
+    display: grid;
+    align-items: center;
+    border-radius: 100px;
+    justify-content: space-around;
+    padding: 5px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
+    border: none;
+    width: 100px;
+    margin-right: 20%;
+    margin-left: 20%;
+    
+      
+  
+    
+}
+
+.Projects {
+    float:left;
+    padding-left: 66%;
+    padding-right: 0%;
+    padding-top: 10px;
+    background-color: #2980b9;
+    transition: background-color 0.25s ease-in-out;
+    text-decoration: none;
+    color: white;
+    display: grid;
+    align-items: center;
+    border-radius: 100px;
+    justify-content: space-around;
+    padding: 5px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
+    border: none;
+    width: 100px;
+    margin-right: 20%;
+  
+   
+}
+
+.Sort {
+    float:left;
+    padding-left: 100px;
+    padding-top: 10px;
+    background-color: #2980b9;
+    transition: background-color 0.25s ease-in-out;
+    text-decoration: none;
+    color: white;
+    display: grid;
+    align-items: center;
+    border-radius: 100px;
+    justify-content: space-around;
+    padding: 5px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
+    border: none;
+    width: 100px;
+    margin-right: 0%;
+  
+   
+}
+.Navbar{
+    list-style: none;
+	display:grid;
+}
+.Header {
+    float: left;
+}
+.Gone {
+    visibility:hidden
+}
+
+
+

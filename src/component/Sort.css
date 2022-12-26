@@ -1,0 +1,40 @@
+.left {
+    text-align:left;
+    list-style: disc;
+    padding-left:20%;
+    justify-content: space-around;
+    
+    
+}
+img {
+    max-width: 50%;
+    max-height: 50%;
+   }
+
+
+.PictureR {
+   float:right;
+   padding-right:20%;
+}
+
+.PictureR2 {
+    float:right;
+    padding-right:5%;
+ }
+
+
+.PictureL {
+    float:left;
+    padding-left:20%;
+}
+ 
+
+.right {
+    text-align:right;
+    list-style: disc;
+    padding-right:20%;
+}
+
+.desc {
+    list-style: disc;
+}
