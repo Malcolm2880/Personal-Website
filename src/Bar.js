@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Navbar.css"
-import Surat from './Pictures/unknown.png';
+import Face from './Pictures/Face.png';
 import {  Link, useNavigate } from "react-router-dom";
 
 
@@ -12,7 +12,7 @@ const Navbar= () =>{
   return (
 		<header class="header">
 		<div class = "Picture">
-    <img src={Surat} alt="Surat"></img>
+    <img src={Face} alt="Face"></img>
 </div>
 <div class = "Contact">
 <h3>

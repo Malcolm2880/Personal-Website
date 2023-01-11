@@ -8,15 +8,13 @@ const Proj = () =>{
   return (
     <div>
  
-      <h1>  Projects</h1>
+      <h1>School  Projects</h1>
       <div class = "left">
         
         <h2> "Super Boxagon" game</h2>
         
         <div>
-        <div class = "PictureR">
-    <img src={Boxagon} alt="Box"></img>
-    </div>
+       
       
       <h3> •	Created a minor game with Java Swing UI implementation.</h3>
       <h3> •	Back end written in Java</h3>
@@ -34,10 +32,7 @@ const Proj = () =>{
       <h2> Formula F1 Database</h2>
 
       <div>
-        <div class = "PictureL">
-    <img src={F1} alt="Surat"></img>
-    </div>
-
+       
       <h3> •	Worked with a team of 3 members to create and query Formula 1 data.</h3>
       <h3> •	Allowed for live updates and database alteration using SQL.</h3>
       <h3>•	UI created using Java Swing.</h3>
@@ -46,18 +41,18 @@ const Proj = () =>{
 
 </div>
       </div>
-  
+      <h1>Personal Projects</h1>
+
       <div class = "left">
-      <h2> Polynomial Merger</h2>
+      <h2> Python Card Manager</h2>
       <div>
         <div class = "PictureR2">
-    <img src={Ploy} alt="Surat"></img>
     </div>
 
-      <h3> •	Created a polynomial representation using linked lists.</h3>
-      <h3> •	Takes in user input, manipulates, and prints result.</h3>
-      <h3> •	Input filtered for irrelevant information before storage.</h3>
-      <h3> •	Technologies: C++.</h3>
+      <h3> •	Created a iteractive card manager based on a game</h3>
+      <h3> •	Calculates maximum possible damage and defence that can be generated in a turn</h3>
+      <h3> •	UI was created through Tkinter</h3>
+      <h3> •	Technologies: Python, Tkinter.</h3>
      
       </div>
       </div>
